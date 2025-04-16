@@ -1,0 +1,16 @@
+.contact-container{
+    background-color: #fefae0;
+    border: 2px dashed #f0c929;
+    border-radius: 12px;
+    padding: 25px;
+}
+
+.contact-link{
+    color: #1e90ff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.contact-link:hover{
+    text-decoration: underline;
+}

@@ -1,0 +1,15 @@
+.skill-box{
+    background-color: #f0f8ff;
+    border: 2px solid #a9c9ff;
+    border-radius: 12px;
+    padding: 15px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    transition: transform 0,3s ease;
+}
+.skill-box:hover{
+    transform: scale(1.05);
+    background-color: #dbefff;
+    cursor: pointer;
+}
